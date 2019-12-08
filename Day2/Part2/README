@@ -1,0 +1,3 @@
+To get solution:
+
+	; ./Part2 < input | grep '→'
