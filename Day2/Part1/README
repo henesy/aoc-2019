@@ -1,0 +1,3 @@
+To get solution set:
+
+	; go build && ./Day2 < input | awk -F ',' '{Print $1}'
