@@ -1,0 +1,4 @@
+To get solution sum:
+
+	; ./Day1 < input | awk 'BEGIN{sum = 0} {sum += $1} END{print sum}'
+
